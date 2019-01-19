@@ -1,3 +1,5 @@
+Mike Shulman says:
+
 This repository contains:
 
 * decls.tex: the basic LaTeX macros that I use in all my papers
@@ -10,3 +12,5 @@ updates to it don't break old projects).  But I symlink all.bib in
 each new project to a copy checked out of this repository (and
 periodically committed), so that when I add new references I only have
 to do it once and then all projects can see them.
+
+I need to produce a all.bib for myself.
