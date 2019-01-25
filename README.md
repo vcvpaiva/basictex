@@ -13,4 +13,4 @@ each new project to a copy checked out of this repository (and
 periodically committed), so that when I add new references I only have
 to do it once and then all projects can see them.
 
-I need to produce a all.bib for myself.
+I need to produce an all.bib for myself. actually I had done it a few years back, recovered it now.
